@@ -1,0 +1,6 @@
+requests
+termcolor
+simplejson
+python-telegram-bot
+telegram
+argcomplete
